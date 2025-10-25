@@ -30,6 +30,18 @@ It allows administrators to add, update, delete, and view student information, a
 - Responsive and user-friendly interface.  
 - Admin dashboard for easy management of student information.
 
+  ## Installation Instructions
+1. Install PHP, Composer, and a local server (XAMPP/WAMP).  
+2. Clone the project repository:  
+   ```bash
+   git clone [repository-link]
+
+
+## Contributors
+- Ma. Angelica N. Estepa
+- [Partner’s Name]
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
